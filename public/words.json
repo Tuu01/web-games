@@ -3,15 +3,15 @@
     "category": "Jobs",
     "groups": [
       { "hint": {"en": "care", "vi": "chăm sóc"}, "words": {"en": ["doctor", "nurse", "paramedic", "pharmacist"], "vi": ["bác sĩ", "y tá", "nhân viên cấp cứu", "dược sĩ"]} },
-      { "hint": {"en": "teach", "vi": "dạy học"}, "words": {"en": ["teacher", "tutor", "coach", "trainer"], "vi": ["giáo viên", "gia sư", "huấn luyện viên", "người hướng dẫn"]} },
-      { "hint": {"en": "kitchen", "vi": "bếp"}, "words": {"en": ["chef", "baker", "barista", "butcher"], "vi": ["đầu bếp", "thợ làm bánh", "nhân viên pha chế", "đồ tể"]} },
+      { "hint": {"en": "teach", "vi": "dạy dỗ"}, "words": {"en": ["teacher", "tutor", "coach", "trainer"], "vi": ["giáo viên", "gia sư", "huấn luyện viên", "người hướng dẫn"]} },
+      { "hint": {"en": "kitchen", "vi": "bếp"}, "words": {"en": ["chef", "baker", "barista"], "vi": ["đầu bếp", "thợ làm bánh", "nhân viên pha chế"]} },
       { "hint": {"en": "repair", "vi": "sửa chữa"}, "words": {"en": ["plumber", "electrician", "mechanic", "carpenter"], "vi": ["thợ sửa ống nước", "thợ điện", "thợ máy", "thợ mộc"]} },
-      { "hint": {"en": "protect", "vi": "bảo vệ"}, "words": {"en": ["police officer", "firefighter", "security guard", "detective"], "vi": ["cảnh sát", "lính cứu hỏa", "bảo vệ", "thám tử"]} },
-      { "hint": {"en": "build", "vi": "xây dựng"}, "words": {"en": ["engineer", "architect", "contractor", "surveyor"], "vi": ["kỹ sư", "kiến trúc sư", "nhà thầu", "nhân viên khảo sát"]} },
-      { "hint": {"en": "money", "vi": "tiền tệ"}, "words": {"en": ["cashier", "accountant", "banker", "auditor"], "vi": ["thu ngân", "kế toán", "nhân viên ngân hàng", "kiểm toán viên"]} },
-      { "hint": {"en": "deliver", "vi": "giao hàng"}, "words": {"en": ["courier", "driver", "dispatcher", "mover"], "vi": ["chuyển phát", "tài xế", "điều phối viên", "người chuyển nhà"]} },
+      { "hint": {"en": "protect", "vi": "bảo vệ"}, "words": {"en": ["police officer", "firefighter"], "vi": ["cảnh sát", "lính cứu hỏa"]} },
+      { "hint": {"en": "build", "vi": "xây dựng"}, "words": {"en": ["engineer", "architect", "contractor"], "vi": ["kỹ sư", "kiến trúc sư", "nhà thầu"]} },
+      { "hint": {"en": "money", "vi": "tiền"}, "words": {"en": ["cashier", "accountant", "banker", "auditor"], "vi": ["thu ngân", "kế toán", "nhân viên ngân hàng", "kiểm toán viên"]} },
+      { "hint": {"en": "deliver", "vi": "giao hàng"}, "words": {"en": ["courier", "driver", "shipper"], "vi": ["chuyển phát", "tài xế", "shipper"]} },
       { "hint": {"en": "office", "vi": "văn phòng"}, "words": {"en": ["receptionist", "assistant", "manager", "analyst"], "vi": ["lễ tân", "trợ lý", "quản lý", "nhà phân tích"]} },
-      { "hint": {"en": "media", "vi": "truyền thông"}, "words": {"en": ["photographer", "editor", "writer", "reporter"], "vi": ["nhiếp ảnh gia", "biên tập viên", "nhà văn", "phóng viên"]} }
+      { "hint": {"en": "media", "vi": "truyền thông"}, "words": {"en": ["photographer", "editor", "writer", "reporter"], "vi": ["nhiếp ảnh gia", "editor", "nhà văn", "phóng viên"]} }
     ]
   },
   {
@@ -20,12 +20,12 @@
       { "hint": {"en": "stripes", "vi": "sọc"}, "words": {"en": ["tiger", "zebra", "skunk", "chipmunk"], "vi": ["hổ", "ngựa vằn", "chồn hôi", "sóc chuột"]} },
       { "hint": {"en": "wings", "vi": "cánh"}, "words": {"en": ["eagle", "owl", "duck", "bat"], "vi": ["đại bàng", "cú mèo", "vịt", "dơi"]} },
       { "hint": {"en": "fins", "vi": "vây"}, "words": {"en": ["shark", "dolphin", "tuna", "ray"], "vi": ["cá mập", "cá heo", "cá ngừ", "cá đuối"]} },
-      { "hint": {"en": "shell", "vi": "mai"}, "words": {"en": ["turtle", "crab", "armadillo", "snail"], "vi": ["rùa", "cua", "tatu", "ốc sên"]} },
+      { "hint": {"en": "shell", "vi": "mai"}, "words": {"en": ["turtle", "crab", "snail"], "vi": ["rùa", "cua", "ốc sên"]} },
       { "hint": {"en": "horns", "vi": "sừng"}, "words": {"en": ["rhino", "goat", "antelope", "beetle"], "vi": ["tê giác", "dê", "linh dương", "bọ cánh cứng"]} },
-      { "hint": {"en": "pouch", "vi": "túi"}, "words": {"en": ["kangaroo", "koala", "opossum", "wallaby"], "vi": ["chuột túi", "gấu túi", "chồn túi", "wallaby"]} },
+      { "hint": {"en": "pouch", "vi": "túi"}, "words": {"en": ["kangaroo", "koala"], "vi": ["chuột túi", "gấu túi"]} },
       { "hint": {"en": "venom", "vi": "nọc độc"}, "words": {"en": ["snake", "scorpion", "jellyfish", "wasp"], "vi": ["rắn", "bọ cạp", "sứa", "ong bắp cày"]} },
-      { "hint": {"en": "herd", "vi": "bầy đàn"}, "words": {"en": ["elephant", "buffalo", "deer", "wildebeest"], "vi": ["voi", "trâu", "hươu", "linh dương đầu bò"]} },
-      { "hint": {"en": "burrow", "vi": "hang"}, "words": {"en": ["rabbit", "mole", "prairie dog", "badger"], "vi": ["thỏ", "chuột chũi", "chó đồng cỏ", "lửng"]} },
+      { "hint": {"en": "herd", "vi": "bầy đàn"}, "words": {"en": ["elephant", "buffalo", "deer"], "vi": ["voi", "trâu", "hươu"]} },
+      { "hint": {"en": "burrow", "vi": "hang"}, "words": {"en": ["rabbit", "mole"], "vi": ["thỏ", "chuột chũi"]} },
       { "hint": {"en": "nocturnal", "vi": "sống về đêm"}, "words": {"en": ["owl", "bat", "raccoon", "fox"], "vi": ["cú mèo", "dơi", "gấu mèo", "cáo"]} }
     ]
   },
@@ -34,29 +34,27 @@
     "groups": [
       { "hint": {"en": "broth", "vi": "nước dùng"}, "words": {"en": ["phở", "bún bò Huế", "bún riêu", "hủ tiếu"], "vi": ["phở", "bún bò Huế", "bún riêu", "hủ tiếu"]} },
       { "hint": {"en": "grilled", "vi": "nướng"}, "words": {"en": ["bún chả", "bún thịt nướng", "nem nướng", "cơm tấm"], "vi": ["bún chả", "bún thịt nướng", "nem nướng", "cơm tấm"]} },
-      { "hint": {"en": "crispy", "vi": "giòn"}, "words": {"en": ["chả giò", "bánh xèo", "bánh khọt", "bánh mì"], "vi": ["chả giò", "bánh xèo", "bánh khọt", "bánh mì"]} },
+      { "hint": {"en": "crispy", "vi": "giòn"}, "words": {"en": ["bánh xèo", "bánh khọt", "bánh mì"], "vi": ["bánh xèo", "bánh khọt", "bánh mì"]} },
       { "hint": {"en": "braised", "vi": "kho"}, "words": {"en": ["thịt kho trứng", "cá kho tộ", "bò kho", "gà kho gừng"], "vi": ["thịt kho trứng", "cá kho tộ", "bò kho", "gà kho gừng"]} },
-      { "hint": {"en": "sticky", "vi": "dẻo"}, "words": {"en": ["xôi", "xôi gấc", "xôi đậu", "xôi mặn"], "vi": ["xôi", "xôi gấc", "xôi đậu", "xôi mặn"]} },
-      { "hint": {"en": "wrap", "vi": "cuốn"}, "words": {"en": ["gỏi cuốn", "bánh tráng cuốn", "bò bía", "nem cuốn"], "vi": ["gỏi cuốn", "bánh tráng cuốn", "bò bía", "nem cuốn"]} },
+      { "hint": {"en": "sticky", "vi": "dẻo"}, "words": {"en": ["xôi", "xôi gấc", "xôi đậu"], "vi": ["xôi", "xôi gấc", "xôi đậu"]} },
+      { "hint": {"en": "roll", "vi": "cuốn"}, "words": {"en": ["gỏi cuốn", "bánh tráng cuốn", "bò bía", "nem cuốn"], "vi": ["gỏi cuốn", "bánh tráng cuốn", "bò bía", "nem cuốn"]} },
       { "hint": {"en": "sweet", "vi": "ngọt"}, "words": {"en": ["chè", "bánh da lợn", "bánh bò", "kẹo dừa"], "vi": ["chè", "bánh da lợn", "bánh bò", "kẹo dừa"]} },
-      { "hint": {"en": "fermented", "vi": "lên men"}, "words": {"en": ["bún mắm", "mắm nêm", "mắm tôm", "dưa chua"], "vi": ["bún mắm", "mắm nêm", "mắm tôm", "dưa chua"]} },
-      { "hint": {"en": "herbs", "vi": "rau thơm"}, "words": {"en": ["bún thịt nướng", "bún chả", "bánh xèo", "gỏi cuốn"], "vi": ["bún thịt nướng", "bún chả", "bánh xèo", "gỏi cuốn"]} },
-      { "hint": {"en": "rice", "vi": "cơm"}, "words": {"en": ["cơm tấm", "cơm gà", "cơm chiên", "cháo"], "vi": ["cơm tấm", "cơm gà", "cơm chiên", "cháo"]} }
+      { "hint": {"en": "fermented", "vi": "Khắm"}, "words": {"en": ["bún mắm", "mắm nêm", "bún đậu mắm tôm"], "vi": ["bún mắm", "mắm nêm", "bún đậu mắm tôm"]} },
+      { "hint": {"en": "rice", "vi": "cơm ..."}, "words": {"en": ["cơm tấm", "cơm gà", "cơm chiên"], "vi": ["cơm tấm", "cơm gà", "cơm chiên"]} }
     ]
   },
   {
     "category": "Famous food",
     "groups": [
-      { "hint": {"en": "noodles", "vi": "mì"}, "words": {"en": ["ramen", "spaghetti", "udon", "lo mein"], "vi": ["ramen", "mì Ý", "udon", "lo mein"]} },
-      { "hint": {"en": "baked", "vi": "nướng"}, "words": {"en": ["pizza", "lasagna", "quiche", "croissant"], "vi": ["pizza", "lasagna", "quiche", "bánh sừng bò"]} },
-      { "hint": {"en": "fried", "vi": "chiên"}, "words": {"en": ["fried chicken", "tempura", "falafel", "churros"], "vi": ["gà rán", "tempura", "falafel", "churros"]} },
-      { "hint": {"en": "wrapped", "vi": "cuốn"}, "words": {"en": ["burrito", "shawarma", "spring rolls", "wrap"], "vi": ["burrito", "shawarma", "chả giò", "wrap"]} },
+      { "hint": {"en": "noodles", "vi": "mì"}, "words": {"en": ["ramen", "spaghetti", "pho"], "vi": ["ramen", "mì Ý", "udon", "phở"]} },
+      { "hint": {"en": "baked", "vi": "nướng"}, "words": {"en": ["pizza", "lasagna", "croissant"], "vi": ["pizza", "lasagna", "bánh sừng bò"]} },
+      { "hint": {"en": "fried", "vi": "chiên"}, "words": {"en": ["fried chicken", "tempura", "churros"], "vi": ["gà rán", "tempura", "churros"]} },
+      { "hint": {"en": "rolling", "vi": "cuốn"}, "words": {"en": ["burrito", "spring rolls", "wrap"], "vi": ["burrito", "chả giò thịt", "wrap"]} },
       { "hint": {"en": "grilled", "vi": "nướng"}, "words": {"en": ["steak", "kebab", "barbecue", "satay"], "vi": ["bít tết", "kebab", "BBQ", "sa tế"]} },
-      { "hint": {"en": "rice", "vi": "cơm"}, "words": {"en": ["paella", "risotto", "biryani", "fried rice"], "vi": ["paella", "risotto", "biryani", "cơm chiên"]} },
       { "hint": {"en": "soup", "vi": "súp"}, "words": {"en": ["ramen", "pho", "miso soup", "tom yum"], "vi": ["ramen", "phở", "súp miso", "tom yum"]} },
-      { "hint": {"en": "sweet", "vi": "ngọt"}, "words": {"en": ["ice cream", "chocolate cake", "donuts", "cheesecake"], "vi": ["kem", "bánh sô-cô-la", "bánh donut", "bánh phô mai"]} },
+      { "hint": {"en": "sweet", "vi": "ngọt"}, "words": {"en": ["ice cream", "chocolate cake", "donuts", "tiramisu"], "vi": ["kem", "bánh sô-cô-la", "donut", "tiramisu"]} },
       { "hint": {"en": "spicy", "vi": "cay"}, "words": {"en": ["curry", "kimchi stew", "hot wings", "mapo tofu"], "vi": ["cà ri", "canh kimchi", "cánh gà cay", "đậu hũ mapo"]} },
-      { "hint": {"en": "seafood", "vi": "hải sản"}, "words": {"en": ["sushi", "paella", "fish and chips", "ceviche"], "vi": ["sushi", "paella", "cá và khoai tây chiên", "ceviche"]} }
+      { "hint": {"en": "seafood", "vi": "hải sản"}, "words": {"en": ["sushi","fish and chips"], "vi": ["sushi", "fish and chips"]} }
     ]
   },
   {
@@ -77,44 +75,44 @@
   {
     "category": "Kitchen",
     "groups": [
-      { "hint": {"en": "cut", "vi": "cắt"}, "words": {"en": ["knife", "cleaver", "mandoline", "shears"], "vi": ["dao", "dao chặt", "mandolin", "kéo"]} },
-      { "hint": {"en": "mix", "vi": "trộn"}, "words": {"en": ["whisk", "bowl", "spatula", "spoon"], "vi": ["phới", "bát", "xẻng", "thìa"]} },
-      { "hint": {"en": "heat", "vi": "làm nóng"}, "words": {"en": ["oven", "microwave", "toaster", "kettle"], "vi": ["lò nướng", "lò vi sóng", "máy nướng", "ấm đun"]} },
-      { "hint": {"en": "drain", "vi": "lọc"}, "words": {"en": ["colander", "strainer", "sieve", "slotted spoon"], "vi": ["rổ", "rây", "rây mịn", "muỗng lỗ"]} },
+      { "hint": {"en": "cut", "vi": "cắt"}, "words": {"en": ["knife", "cleaver", "shears"], "vi": ["dao", "dao chặt", "kéo"]} },
+      { "hint": {"en": "mix", "vi": "trộn"}, "words": {"en": ["whisk", "bowl", "spatula", "spoon"], "vi": ["phới", "bát", "muôi", "thìa"]} },
+      { "hint": {"en": "heat", "vi": "làm nóng"}, "words": {"en": ["oven", "microwave", "toaster", "kettle"], "vi": ["lò nướng", "lò vi sóng", "máy nướng bánh mì", "ấm đun nước"]} },
+      { "hint": {"en": "drain", "vi": "lọc"}, "words": {"en": ["colander", "strainer", "slotted spoon"], "vi": ["rổ", "rây", "muỗng lỗ"]} },
       { "hint": {"en": "measure", "vi": "đo"}, "words": {"en": ["measuring cup", "measuring spoons", "scale", "thermometer"], "vi": ["cốc đong", "thìa đong", "cân", "nhiệt kế"]} },
       { "hint": {"en": "store", "vi": "lưu trữ"}, "words": {"en": ["fridge", "container", "jar", "pantry"], "vi": ["tủ lạnh", "hộp đựng", "hũ", "tủ thức ăn"]} },
       { "hint": {"en": "serve", "vi": "phục vụ"}, "words": {"en": ["plate", "bowl", "tray", "tongs"], "vi": ["đĩa", "bát", "khay", "kẹp"]} },
       { "hint": {"en": "grip", "vi": "kẹp"}, "words": {"en": ["tongs", "oven mitts", "jar opener", "handle"], "vi": ["kẹp", "găng tay lò", "dụng cụ mở nắp", "tay cầm"]} },
       { "hint": {"en": "clean", "vi": "làm sạch"}, "words": {"en": ["sponge", "brush", "dish soap", "towel"], "vi": ["miếng bọt biển", "bàn chải", "nước rửa chén", "khăn"]} },
-      { "hint": {"en": "blend", "vi": "xay"}, "words": {"en": ["blender", "food processor", "mortar", "pestle"], "vi": ["máy xay", "máy xay thực phẩm", "cối", "chày"]} }
+      { "hint": {"en": "crunch", "vi": "nghiền"}, "words": {"en": ["blender", "food processor", "mortar", "pestle"], "vi": ["máy xay", "máy xay thực phẩm", "cối", "chày"]} }
     ]
   },
   {
     "category": "Vehicles",
     "groups": [
-      { "hint": {"en": "rail", "vi": "đường sắt"}, "words": {"en": ["train", "subway", "tram", "monorail"], "vi": ["tàu hỏa", "tàu điện ngầm", "tàu điện", "tàu một ray"]} },
+      { "hint": {"en": "rail", "vi": "đường sắt"}, "words": {"en": ["train", "subway", "tram"], "vi": ["tàu hỏa", "tàu điện ngầm", "tàu điện"]} },
       { "hint": {"en": "water", "vi": "đường thủy"}, "words": {"en": ["boat", "ship", "ferry", "kayak"], "vi": ["thuyền", "tàu", "phà", "kayak"]} },
-      { "hint": {"en": "air", "vi": "hàng không"}, "words": {"en": ["airplane", "helicopter", "glider", "jet"], "vi": ["máy bay", "trực thăng", "tàu lượn", "máy bay phản lực"]} },
-      { "hint": {"en": "twowheel", "vi": "hai bánh"}, "words": {"en": ["bicycle", "motorcycle", "scooter", "moped"], "vi": ["xe đạp", "xe máy", "xe scooter", "xe 50cc"]} },
+      { "hint": {"en": "air", "vi": "hàng không"}, "words": {"en": ["airplane", "helicopter", "jet"], "vi": ["máy bay", "trực thăng", "máy bay phản lực"]} },
+      { "hint": {"en": "twowheel", "vi": "hai bánh"}, "words": {"en": ["bicycle", "motorcycle", "scooter"], "vi": ["xe đạp", "xe máy", "xe scooter"]} },
       { "hint": {"en": "haul", "vi": "chở hàng"}, "words": {"en": ["truck", "van", "pickup", "tractor"], "vi": ["xe tải", "xe van", "xe bán tải", "máy kéo"]} },
       { "hint": {"en": "city", "vi": "thành phố"}, "words": {"en": ["taxi", "bus", "tram", "subway"], "vi": ["taxi", "xe buýt", "tàu điện", "tàu điện ngầm"]} },
-      { "hint": {"en": "offroad", "vi": "địa hình"}, "words": {"en": ["ATV", "dirt bike", "jeep", "tractor"], "vi": ["xe địa hình", "xe địa hình", "xe jeep", "máy kéo"]} },
+      { "hint": {"en": "offroad", "vi": "địa hình"}, "words": {"en": ["dirt bike", "jeep"], "vi": [ "xe địa hình", "xe jeep"]} },
       { "hint": {"en": "emergency", "vi": "khẩn cấp"}, "words": {"en": ["ambulance", "fire truck", "police car", "rescue helicopter"], "vi": ["xe cứu thương", "xe cứu hỏa", "xe cảnh sát", "trực thăng cứu hộ"]} },
-      { "hint": {"en": "humanpower", "vi": "sức người"}, "words": {"en": ["bicycle", "scooter", "canoe", "kayak"], "vi": ["xe đạp", "xe scooter", "ca nô", "kayak"]} },
-      { "hint": {"en": "delivery", "vi": "giao hàng"}, "words": {"en": ["van", "truck", "cargo bike", "scooter"], "vi": ["xe van", "xe tải", "xe đạp chở hàng", "xe scooter"]} }
+      { "hint": {"en": "humanpower", "vi": "sức người"}, "words": {"en": ["bicycle", "scooter", "kayak"], "vi": ["xe đạp", "xe scooter", "kayak"]} },
+      { "hint": {"en": "delivery", "vi": "giao hàng"}, "words": {"en": ["van", "truck", "motorbike", "scooter"], "vi": ["xe van", "xe tải", "xe máy", "xe scooter"]} }
     ]
   },
   {
     "category": "Sports",
     "groups": [
       { "hint": {"en": "racket", "vi": "vợt"}, "words": {"en": ["tennis", "badminton", "table tennis", "squash"], "vi": ["quần vợt", "cầu lông", "bóng bàn", "squash"]} },
-      { "hint": {"en": "bat", "vi": "gậy"}, "words": {"en": ["baseball", "cricket", "softball", "rounders"], "vi": ["bóng chày", "cricket", "bóng mềm", "rounders"]} },
-      { "hint": {"en": "goal", "vi": "khung thành"}, "words": {"en": ["football (soccer)", "hockey", "handball", "lacrosse"], "vi": ["bóng đá", "khúc côn cầu", "bóng ném", "lacrosse"]} },
+      { "hint": {"en": "bat", "vi": "gậy"}, "words": {"en": ["baseball", "cricket", "rounders"], "vi": ["bóng chày", "cricket", "rounders"]} },
+      { "hint": {"en": "goal", "vi": "khung thành"}, "words": {"en": ["football", "hockey", "handball"], "vi": ["bóng đá", "khúc côn cầu", "bóng ném"]} },
       { "hint": {"en": "net", "vi": "lưới"}, "words": {"en": ["volleyball", "tennis", "badminton", "basketball"], "vi": ["bóng chuyền", "quần vợt", "cầu lông", "bóng rổ"]} },
-      { "hint": {"en": "ring", "vi": "võ đài"}, "words": {"en": ["boxing", "wrestling", "MMA", "kickboxing"], "vi": ["quyền anh", "vật", "MMA", "kickboxing"]} },
+      { "hint": {"en": "ring", "vi": "võ đài"}, "words": {"en": ["boxing", "wrestling", "kickboxing"], "vi": ["quyền anh", "vật", "kickboxing"]} },
       { "hint": {"en": "water", "vi": "nước"}, "words": {"en": ["swimming", "surfing", "rowing", "kayaking"], "vi": ["bơi lội", "lướt sóng", "chèo thuyền", "chèo kayak"]} },
       { "hint": {"en": "track", "vi": "đường đua"}, "words": {"en": ["athletics", "cycling", "speed skating", "sprinting"], "vi": ["điền kinh", "đạp xe", "trượt băng tốc độ", "chạy nước rút"]} },
-      { "hint": {"en": "snow", "vi": "tuyết"}, "words": {"en": ["skiing", "snowboarding", "biathlon", "ice hockey"], "vi": ["trượt tuyết", "trượt ván tuyết", "biathlon", "khúc côn cầu trên băng"]} },
+      { "hint": {"en": "cold", "vi": "lạnh"}, "words": {"en": ["skiing", "snowboarding", "ice hockey"], "vi": ["trượt tuyết", "trượt ván tuyết",  "khúc côn cầu trên băng"]} },
       { "hint": {"en": "ball", "vi": "bóng"}, "words": {"en": ["basketball", "football", "rugby", "tennis"], "vi": ["bóng rổ", "bóng đá", "bóng bầu dục", "quần vợt"]} },
       { "hint": {"en": "mat", "vi": "thảm"}, "words": {"en": ["judo", "wrestling", "taekwondo", "gymnastics"], "vi": ["judo", "vật", "taekwondo", "thể dục dụng cụ"]} }
     ]
