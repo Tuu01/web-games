@@ -68,6 +68,3 @@ npm run build
 ## Notes
 - In dev, service worker is disabled (only registers in production).
 - If updates don't appear in production, bump cache version in `public/sw.js`.
-
-## License
-[Add license here]
